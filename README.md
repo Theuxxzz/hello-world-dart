@@ -1,2 +1,19 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Hello World em Dart
+
+## Nome
+
+Matheus Silva Ribeiro
+
+## Objetivo
+
+Este projeto tem como objetivo verificar a configuração do ambiente de desenvolvimento e a execução de um programa simples utilizando Dart.
+
+## Como executar
+
+No terminal, execute:
+
+dart run
+
+## Saída esperada
+
+Hello World
